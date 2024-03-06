@@ -14,15 +14,12 @@ sidebar:
 
     # Sidebar links
     email: canonjp@javeriaaana.edu.co
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    phone: (+57) 601 320 8320
+    timezone: Colombia/Bogotá Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    linkedin: Juan Pablo Canón
+    github: JuanBap
+    gitlab: JuanBaplo
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
