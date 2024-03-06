@@ -8,23 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Juan Pablo Canón Contreras
+    tagline: Desarrollador de entorno
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: canonjp@javeriaaana.edu.co
+    phone: (+57) 601 320 8320
+    timezone: Colombia/Bogotá Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
+    linkedin: Juan Pablo Canón
+    github: JuanBap
+    gitlab: JuanBaplo
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,11 +29,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: B2
 
         - idiom: Spanish
           level: Professional
