@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Juan Pablo Canón Contreras
     tagline: Desarrollador de entorno
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: canonjp@javeriana.edu.co
