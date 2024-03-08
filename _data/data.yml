@@ -134,14 +134,13 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Esta certificación se enfoca en el aprendizaje y 
+            dominio de Git, un sistema de control de versiones 
+            ampliamente utilizado en el desarrollo de software. 
+            A través de este programa, he profundizado mi comprensión 
+            de los conceptos fundamentales de Git, incluidos el 
+            seguimiento de cambios, la gestión de ramas y la 
+            colaboración en proyectos de código abierto.
 
 projects:
     title: Projects
