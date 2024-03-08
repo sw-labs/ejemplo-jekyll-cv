@@ -167,21 +167,19 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Estas son mis open software contributions.
     contributions:
-      - title: Tempo
+      - title: Contribuidor en el proyecto de código abierto OpenOffice
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Implementé una serie de mejoras en la funcionalidad de procesamiento de texto, incluyendo nuevas características de edición."
 
-      - title: Atom
+      - title: Firefox
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Contribuí con correciones de bugs y mejoras en la seguridad del navegador."
 
-      - title: Delta
+      - title: ZED
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Actualmente, me encuentro contribuyendo con el desarrollo del editor de código para el sistema operativo MacOs."
 
 publications:
     title: Publications
