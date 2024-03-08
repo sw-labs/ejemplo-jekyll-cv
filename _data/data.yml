@@ -184,24 +184,28 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      En esta sección, presento una selección de mis contribuciones 
+      académicas y técnicas a la comunidad de desarrollo de software 
+      y ciencias de la computación. Mi compromiso con el avance del 
+      conocimiento en estos campos me ha llevado a explorar y compartir 
+      innovaciones a través de publicaciones en revistas especializadas 
+      y conferencias internacionales. Cada artículo y presentación 
+      refleja mi pasión por investigar y resolver desafíos complejos 
+      en ingeniería de software y desarrollo de aplicaciones, con el 
+      objetivo de impulsar el progreso tecnológico y facilitar soluciones 
+      efectivas para problemas cotidianos. A continuación, encontrarás 
+      algunos de mis trabajos más destacados.
     papers:
-      - title: The Art of Computer Programming
+      - title: Mejoras en la Eficiencia de Algoritmos de Búsqueda
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Canon, Juan Pablo
+        conference: Journal of Computer Science Innovations, 2020.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Aplicación de IA en la Gestión de Tareas
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: "Conferencia Internacional de Desarrollo de Software, 2025."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
