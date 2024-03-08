@@ -8,50 +8,50 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Juan Pablo Canón Contreras
+    tagline: Desarrollador de entorno
+    avatar: profilesonriendo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: canonjp@javeriana.edu.co
+    phone: 318 767 7436
+    timezone: Colombia  Standard Time (UTC-5)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: 
+    linkedin: Juan Pablo Canón Contreras
+    xing: 
+    github: JuanBap
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: Juanbaplo
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: '/assets/pdf/resume.pdf'
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: B2
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: French
+          level: A2 
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Jugar Minecraft modo supervivencia
           link:
 
         - item: Cooking
+          link:
+
+        - item: Soccer
           link:
 
 career-profile:
@@ -66,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Software Engineering
+        university: Pontificia Universidad Javeriana
+        time: 2022 - 2026
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,43 +92,18 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Desarrollador de Software
+        time: 2025 - Present
+        company: Tech Innovations Inc.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Lideré el desarrollo de una aplicación móvil multiplataforma que mejoró la interacción del cliente en un 30%.
+          - Colaboré en la implementación de metodologías ágiles, mejorando los tiempos de entrega del equipo en un 20%.
+      - role: Ingeniero de Sistemas Jr.
+        time: 2023 - 2025
+        company: Solutions Ltd.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         - Desarrollé y mantuve aplicaciones internas, reduciendo los tiempos de procesamiento en un 25%.
+         - Participé en la migración de sistemas a la nube, lo que resultó en una reducción del costo operativo del 15%.
 
 certifications:
       title: Certifications
@@ -174,29 +149,16 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      He podido desempeñarme en diferente campos, en los que he fortalecido mis conocimientos, ganando contactos
+      y sobre todo obtener mas experiencia, entre todos los proyectos en los que participe estan:
     assignments:
-      - title: Velocity
+      - title: Aplicación de Gestión de Tareas
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+        tagline: "Una aplicación móvil para la gestión de tareas personales y profesionales, que utiliza IA para priorizar tareas basadas en urgencia y relevancia"
+      - title: Sistema de Reservas en Línea
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Desarrollé un sistema completo de reservas para pequeñas y medianas empresas, mejorando la eficiencia de la gestión de citas en un 40%."
+      
 
 oss:
     title: OSS Contributions
