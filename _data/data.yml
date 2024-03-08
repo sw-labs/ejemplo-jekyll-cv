@@ -149,29 +149,16 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      He podido desempeñarme en diferente campos, en los que he fortalecido mis conocimientos, ganando contactos
+      y sobre todo obtener mas experiencia, entre todos los proyectos en los que participe estan:
     assignments:
-      - title: Velocity
+      - title: Aplicación de Gestión de Tareas
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+        tagline: "Una aplicación móvil para la gestión de tareas personales y profesionales, que utiliza IA para priorizar tareas basadas en urgencia y relevancia"
+      - title: Sistema de Reservas en Línea
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Desarrollé un sistema completo de reservas para pequeñas y medianas empresas, mejorando la eficiencia de la gestión de citas en un 40%."
+      
 
 oss:
     title: OSS Contributions
