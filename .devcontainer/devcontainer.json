@@ -1,6 +1,6 @@
 {
 	// Utiliza la imagen universal de devcontainers
-	"image":"mcr.microsoft.com/devcontainers/universal:2",
+	"image":"mcr.microsoft.com/devcontainers/jekyll",
     
     // Ejecuta luego de iniciar el espacio de trabajo
 	"postCreateCommand": "bundle install",
