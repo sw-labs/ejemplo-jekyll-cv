@@ -14,7 +14,8 @@
 		"vscode": {
 			// extensiones a instalar
 			"extensions": [
-				"ms-azuretools.vscode-containers"
+				"ms-azuretools.vscode-containers",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
