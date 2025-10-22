@@ -1,7 +1,10 @@
 {
 	// Utiliza la imagen universal de devcontainers
 	"image":"mcr.microsoft.com/devcontainers/jekyll",
-    
+	"features": {
+		"ghcr.io/devcontainers/features/docker-in-docker:2": {}
+	},
+
     // Ejecuta luego de iniciar el espacio de trabajo
 	"postCreateCommand": "bundle install",
 	
@@ -11,7 +14,7 @@
 		"vscode": {
 			// extensiones a instalar
 			"extensions": [
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-containers"
 			]
 		}
 	}
